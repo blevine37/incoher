@@ -1,7 +1,0 @@
-import numpy as np
-import math
-
-class dm(object):
-    def __init__(self,nk):
-        self.rho00 = np.zeros((nk,nk))
-        
